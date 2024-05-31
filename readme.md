@@ -11,7 +11,7 @@ ggcor from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("houyunhuang/ggcor")
+devtools::install_github("zuoyunjiang/ggcor")
 ```
 
 ## Correlation plot
